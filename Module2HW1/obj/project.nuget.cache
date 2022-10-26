@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z4UxaWqUCogczu9jLqCwAE13xGZKOOV19RGpvyKYO5UhZkNYTe4WlsYh84bU+K5GfnmudpCIrpnX//SAKhybEA==",
+  "dgSpecHash": "U8J8cQgz/ekFydPSGrVPAetW8zyyWiVyWZU2S0QwhvKAX4qSh+z6EhAYjYW5wpGw0hIVIKnFxbE1TPv/SMekdg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Yaroslav\\source\\repos\\Module2HW1\\Module2HW1\\Module2HW1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yaroslav\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
   "logs": []
 }
